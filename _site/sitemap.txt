@@ -1,9 +1,0 @@
-
-http://windirt.github.io/archive.html
-http://windirt.github.io/atom.xml
-http://windirt.github.io/categories.html
-http://windirt.github.io/index.html
-http://windirt.github.io/pages.html
-http://windirt.github.io/rss.xml
-http://windirt.github.io/sitemap.txt
-http://windirt.github.io/tags.html
