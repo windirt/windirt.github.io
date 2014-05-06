@@ -94,7 +94,7 @@ disqus_aside_avatar_size: 32
 disqus_aside_comment_excerpt_length: 200
 
 # Google Analytics
-#google_analytics_tracking_id: UA-30583028-1
+google_analytics_tracking_id: UA-50708684-1
 
 # Facebook Like
 facebook_like: false
