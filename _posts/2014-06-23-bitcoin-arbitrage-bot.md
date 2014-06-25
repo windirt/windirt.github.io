@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  Bitcoin Arbitrage Bot 
-categories: [apps]
+tags: [Apps,OSX,Mac,Bitcoin]
+comments: true
+
 ---
 
 
